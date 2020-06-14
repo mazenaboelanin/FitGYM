@@ -77,7 +77,6 @@ i
 .img-header-home
 {   
     min-height: 750px;
-    
     background-image: url("../img/gym-fitness-crossfit.jpg");
     background-repeat: no-repeat;
     background-size: cover;
@@ -201,6 +200,13 @@ i
     text-transform: uppercase;
   
 }
+
+.pricing .card
+{
+    border: none;
+    background-color: none;
+}
+
 .pricing  .card-header
 {
     background-color: #252525;
