@@ -76,7 +76,7 @@ i
 
 .img-header-home
 {   
-    height: 750px;
+    min-height: 750px;
     
     background-image: url("../img/gym-fitness-crossfit.jpg");
     background-repeat: no-repeat;
@@ -229,7 +229,7 @@ i
 
 .img-header-all
 {
-    height: 400px;
+    min-height: 400px;
     background: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)) , url("../img/gym-fitness-crossfit.jpg");
     background-repeat: no-repeat;
     background-size: cover;
